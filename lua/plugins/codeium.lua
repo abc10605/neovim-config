@@ -11,6 +11,8 @@ return {
       enabled = true,
       filetypes = {
         ["grug-far"] = false,
+        codecompanion = false,
+        ["neo-tree-popup"] = false,
       },
       key_bindings = {
         accept = false, -- handled by completion engine
