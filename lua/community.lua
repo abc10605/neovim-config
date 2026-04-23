@@ -6,6 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.ai.codecompanion-nvim" },
+  { import = "astrocommunity.ai.opencode-nvim" },
   { import = "astrocommunity.code-runner.overseer-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.diagnostics.tiny-inline-diagnostic-nvim" },
